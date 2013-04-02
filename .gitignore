@@ -3,3 +3,8 @@ cobertura-history/
 .settings
 .classpath
 .project
+.idea/
+cassandra-driver-parent.iml
+driver-core/cassandra-driver-core.iml
+driver-examples/cassandra-driver-examples-parent.iml
+driver-examples/stress/cassandra-driver-examples-stress.iml
